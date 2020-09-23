@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"mflix.theaters"},{"v":{"$numberInt":"2"},"key":{"location.geo":"2dsphere"},"name":"geo index","ns":"mflix.theaters","2dsphereIndexVersion":{"$numberInt":"3"}}],"uuid":"6df5ff8d5bff496d9aa83c6c2d453ca1"}
